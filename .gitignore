@@ -13,6 +13,8 @@ hs_err_pid*
 
 */target/
 */.mvn/
+consumer/.mvn/
+producer/.mvn/
 
 ### STS ###
 .apt_generated
